@@ -74,6 +74,16 @@ const projects = [
     live: 'https://darshagitrepos.ccbp.tech/',
     github: 'https://github.com/darshansatukuri/popularReposProject',
   },
+  {
+    title: 'Hotels Application',
+    stack: 'React.js(Vue) • REST API',
+    image:'https://res.cloudinary.com/dmesipub7/image/upload/v1784103093/Screenshot_65_wewaf9.png',
+    description:
+      'It can add firms from different users and add their own restaurants and products like swiggy.',
+    features: ['Adding Firms', 'Adding Products To Firm', 'Displaying Products'],
+    live: 'https://darshans-swiggy-frontend-ysns.vercel.app/',
+    github: 'https://github.com/darshansatukuri/DarshansSwiggyFrontend',
+  },
 ]
 
 function App() {
