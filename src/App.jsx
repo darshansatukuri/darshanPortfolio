@@ -41,7 +41,7 @@ const projects = [
       'Trip planning experience',
       'Modern, mobile-friendly layout',
     ],
-    live: 'https://ai-travell-planner-frontend-wuy5.vercel.app/',
+    live: ' https://ai-travell-planner-frontend-rx21.vercel.app/',
     github: 'https://github.com/darshansatukuri/AiTravellPlannerFrontend',
   },
   {
