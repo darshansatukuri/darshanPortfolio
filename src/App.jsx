@@ -84,6 +84,16 @@ const projects = [
     live: 'https://darshans-swiggy-frontend-ysns.vercel.app/',
     github: 'https://github.com/darshansatukuri/DarshansSwiggyFrontend',
   },
+  {
+    title: 'Simple Todos',
+    stack: 'React JS • Node JS • Express JS • MongoDB • REST APIs • JavaScript • HTML • CSS',
+    image:'https://res.cloudinary.com/dmesipub7/image/upload/v1784729543/Screenshot_75_tyjfo8.png',
+    description:
+      'Developed REST APIs with CRUD operations using Express.js and MongoDB, integrating them with a responsive React frontend.',
+    features: ['Adding Todos', 'Deleting Todos', 'Updating Todos', 'Getting Todos'],
+    live: 'https://simple-todos-frontend.vercel.app/',
+    github: 'https://github.com/darshansatukuri/simpleTodosFrontend',
+  }, 
 ]
 
 function App() {
